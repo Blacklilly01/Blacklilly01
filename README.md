@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I can look at snakes camouflage until my brain tells me its a snake, then I start screeming. 
 -->
-<https://carpentries.org>
+<p>My favorite GitHub Digital Preservation repo: <a href=https://smithsonian.github.io/2024-01-smithsonian-online/</a></p>
+ 
+
